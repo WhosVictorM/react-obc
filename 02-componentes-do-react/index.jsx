@@ -1,12 +1,12 @@
 function PrimaryButton() {
-    return <button>Botão</button>
+  return <button>Botão</button>;
 }
 
 function Container() {
-    return (
-        <div className="">
-            <h1></h1>
-            <p></p>
-        </div>
-    )
+  return (
+    <div className="">
+      <h1></h1>
+      <p></p>
+    </div>
+  );
 }
